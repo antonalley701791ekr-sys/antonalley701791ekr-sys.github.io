@@ -1,9 +1,9 @@
 {
     "title_prefix": "欢迎来到",
-    "title": "小狐务器",
+    "title": "白月狐吟",
     "subtitle_prefix": "Welcome everyone to my website",
     "subtitle_name": "Xiaohu Server",
-    "pixel_text": "我爱雨云",
+    "pixel_text": "白狐初墨",
     "intro": "我是一个热爱前端与视觉设计的开发者，喜欢折腾各种炫酷但不浮夸的交互效果，也在不断打磨自己在工程化、性能优化和产品体验上的能力。如果你有有趣的想法、项目或合作机会，欢迎随时通过下方联系方式或邮件模块来找我聊聊。",
     "skills": [
         "HTML / CSS",
@@ -45,3 +45,4 @@
         "github": "github.com/username"
     }
 }
+
